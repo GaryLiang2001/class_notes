@@ -5,4 +5,62 @@
 
 			AT 4:02, we will start with the warmer. 
 
-			If you're not ready, you will lose participation points. 
+			If you're not ready, you will lose participation points.
+
+		2) Bring your journal and planner EVERY CLASS
+			1) I must sign your journal AND planner every class. 
+
+12/19/2017
+
+	PROJECT TIME:
+		Write your code to Webscrape your information
+		You must save your project to a github repository.
+
+		But your and your partner must have your own github repository. 
+
+
+	USERNAME LIST
+		Please send me a list of all your usernames on Engrade by the end of class
+		Person responsible:
+			"Jerry"
+
+
+	WELCOME BACK!
+		We will be continuing with our project. Sit with your partner.
+	Course: 
+		WEB SCRAPE PROJECT
+
+	Directions:
+		- Sit with your partner. You already went through Web Scrape Project steps 1-6.
+		- You should get started with step 7.
+		- In this step you will write code to get ONE set of data from your webpage.
+		- Step 7 on enudalearn Web Scrape Projects shows you how to get the data if you website was 
+		  a vocabulary list on vocabulary.com. But you must write YOUR OWN algorithim to get
+		  YOUR OWN data on YOUR OWN website. 
+		- I will be walking around the classroom helping people with thier algorithims.
+
+	Before Class is Over
+		- Upload your project as it currently is on github
+
+
+	SAVE TO GITHUB
+		1) Create a new github repository called "scrape_project"
+
+		2) initialized a git repository in your local scrape_project folder
+
+		2.5) add the remote origin to your local repository
+
+		3) add the files you want git to keep track of
+
+		4) save the files to your local git repository using commit
+
+		5) push your local git repository to your github.com account. 
+
+	Homework: 
+		- Finish all quizzes on Github Basics and Web Scrape Project
+
+		- Annotate every line of code in saving a webpage script on Web Scrape Project lesson.
+			- If you don't understand what the line of code means, write your guess, and then write that you don't understand.
+			- You must write your annotations in your journal
+			EX:
+				Line 1: Line one imports the urlopen funciton we will use to download the webpage. We import it form the urllib.request library.  
