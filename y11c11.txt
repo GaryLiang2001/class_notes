@@ -1,0 +1,118 @@
+12/8/2017
+
+	Comments
+
+		Rules
+
+			1 ) Bring your notebook and your student planner.
+
+			2) Do not bring any food in here. Or drinks. 
+
+			3) Before we leave the classroom:
+				all tables must be cleared
+
+				all computers must be turned off.
+
+				there must be no trash on the floor. 
+
+
+			4) never change anything on these computers. Never change the background, never change the settings. 
+
+			5) Never download anything on these computers. Don't download an image, software, anything, unless I expressly tell you to.
+
+			6) Never go on any website unless I expressly tell you to. The only allowed websites without permission are university websites and baidu translate. 
+
+
+			7) IT IS NEVER ACCEPTABLE TO BE DOING NOTHING
+				a) you can't say, I don't know what to do.
+
+				b) you must be actively trying to find out what to do. 
+
+				c) Write down three things if you have a problem.
+					1) What steps the instructions I gave said to do
+
+					2) Which step you are having trouble with
+
+					3) What command you tried to do to complete the step
+
+					4) What error message (or other error) you received
+
+				d) After you have written all the things down from 7(c) please raise your hand. 
+
+				e) If I see you ever not doing anything, being "lost" is not an acceptable answer. "I don't know what to do" is never an acceptable excuse to not doing anything or not having made appreciable progress in class. 
+
+				f) If you don't know what to do, you must either be activetly asking a classmate (or if no classmate knows the teacher) what the instructions are (or where the instrucitons can be found).
+
+				g) If you know what you should do but are receiving an error, you should be writing down 7(c)2-4:
+					2) Which step you are having trouble with
+
+					3) What command you tried to do to complete the step
+
+					4) What error message (or other error) you received
+
+	Homework
+		Finish all the logistic regression quizzes.
+
+		If you haven't already, please read the chapters I sent you on logistic regression. 
+
+		Read and understand all of the Logistic Regression: Titanic Dataset Lesson:
+
+			Describe all the parts that you don't understand. 
+
+
+
+	Notes:
+
+		Machine learning is divided into 3 categories
+
+			Supervised Learning
+
+			Unsupervised Learning
+
+			Reinforcement Learning
+
+		Supervised Learning
+			Is split into 2 categories
+
+				Classification Problems
+					Predict a continuous output value
+
+					The important thing about classification is that the class is finite. 
+				Regression
+					Predict a continuous output value
+
+		Regression
+			Algoirthims:
+				Linear Regression
+
+
+		Classification
+			Algorithims:
+				Logistic Regression
+
+	Class Comments:
+		- Many students were absent
+		- Wasn't a very focused class.
+		- Mike did very well and was quite active in class. He was often the only answering most of the questions.
+		- The second half of class the class did a much better job. When it came down to actually doing work, they got much more focused. 
+		- Celio was alseep, not paying attention, or disrupting class.
+		- Alice should use her own computer. She never listens when I ask. I have to ask multiple times. 
+		- Alex often loses track of where we were in class. But he seemed quite dedicated to being a good student. 
+		- Students overrall were a C+. Many student I did not mention did well. 
+		- Students are getting better at note taking, and learning how to "troubleshoot" their problems (aka problem solving). 
+		- Students should be reminded to go through the steps if they are lost -
+			- Where are the directions
+			- What are the steps?
+			- What step did I finish last?
+			- What step can I not finish?
+				- Can I not understand "what" to do?
+				- Can I not understand "how" to do it
+				- I understand what and how to do but I am not getting the right result
+					- Ask classmates
+					- Ask teacher
+
+		- Only Mike
+	Homework:
+		Everyone to finish all quizzes from Github Basics Lesson.
+
+		1) If you didn't finish writing the code, please read all the section from the Github basics Lesson

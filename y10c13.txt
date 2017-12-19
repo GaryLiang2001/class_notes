@@ -1,0 +1,88 @@
+2017/12/13
+
+	Rules
+
+		1) When teacher talks, stop what you're doing any pay attention. (Ella!)
+
+		2) When we enter class within 2 minutes:
+				1) log into Enuda Learn 
+
+				2) click on the latest Intro to Computer Science Course
+
+		3) Bring Your NOTEBOOK AND PLANNER to every class. 
+
+		4) Never be doing nothing
+
+			1) Frequent Excuses
+				1) I don't know what to do? 
+					a) follow Kalu's problem solving tactics. 
+				2) I dont understand the english?
+
+				3) I have already finished
+					Impossible. 
+
+		5) Take initiative in your own learning. Do not be a passive student. 
+
+		6) Before Leaving Class:
+			1) I must sign your NOTEBOOK and your PLANNER
+
+			2) Push in all chairs. 
+
+			3) Shut Down all computers
+
+			4) Clear all desks and the floor of everything. 
+
+		7) NO FOOD OR DRINKS IN THIS CLASS
+
+		8) Computer Use Rules:
+			1) Never go on any website that I do not explicitly tell you to. 
+				EXCEPT:
+					1) University webistes
+					2) baidu translate
+					3) Enuda Learn
+
+
+		Rules Signed By:
+			Yonnie, Sally, Alex, Ella, Laerina, Henry, Louis, Bobby, Margaret, Vicky, Dina, Young, Max, Famous
+
+
+	Comments in Class
+
+
+	Homework:
+		Finish Reading All of Github Basics.
+
+		You must understand every line of code. If you do not understand any line of code, please write in your notebook. the line number, and the exercise name, and your guess as to what it means.
+
+		If I don't see anything in your notebook I will assume that you guys understand everything. 
+
+	Where We Stopped:
+		Didn't finish step 5:
+			Laerina, Margaret, Yonnie, Sally, Max, Famous, Young, Bobby, Louis, Vicky, Dina, 
+
+		Didn't Finish Step 6:
+			Alex, Ella, Henry (Henry almost finished 6 but had a mistake on the last step.)
+
+
+	Next Week:
+
+		1) Finish writing all hte code in Github basics.
+
+		2) Push you and your partners project unto BOTH of your github accounts. 
+
+
+Problem Solving Tactics
+
+	- I'm Lost
+		Solution:
+			1) Use Problem Sovling Tactics
+			2) Ask Classmate for help
+			3) Ask teacher for help
+
+		Problem Solving Tactics
+			1) Do I know WHERE instructions are?
+				- Enudalearn.com the lesson of the day. 
+			2) Bring instructions down into steps
+			3) What was the last step I completed
+
+	

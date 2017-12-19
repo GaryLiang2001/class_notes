@@ -1,0 +1,76 @@
+12/13/2017
+	Rules
+		1) Don't bring any food or drinks in here. 
+
+		2) Before you leave:
+
+			1) Make sure all desk are clear.
+
+			2) Make sure all computers are turned off . (By turned off I mean shut down.)	
+
+				: Show entire class how to shut down. Entire class agrees  to shut down:
+					(Ricky, Bruce, Anna, Katherine, Tommy, Jerry, Ski Li, Sam, Harry, Susan, Freya, Joy, Sherlock)
+			3) Make sure all chairs are pushed in. 
+
+		3) When you enter:
+			1) Within 2 mins log into enuda learn and go to hte latest machine learning lesson. Read the warmer. 
+
+		4) During class:
+
+			1) Never be doing nothing. 
+				Excuses:
+					1) I finished. 
+						Impossible.
+
+					2) I don't know what to do? 
+						Follow problem solving tactics I taught you.
+
+
+			2) Carry your notebook AND your studen planner. 
+				1) I must sight BOTH your student notebook and your student planner every class. 
+
+				2) You must bring the SAME NOTE book with past signatures every class!
+
+	Class Comments:
+
+		The class did exceptionally well today. Very communicatative. 
+
+		They are really making progress.
+
+		Sherlock, Susan, Katherine, and Harry show great progress and exhibited great learning habits. 
+			THeir great learning habits:
+				1) Asked questions (not Katherine)
+
+				2) Took notes (not Katheirine)
+
+				3) Active participants in their learning. 
+
+		Other did this too but I may have not have noticed. Overrall the class did really well, these were just a few students who I happend to notice.
+
+
+	Homework
+		Read all of github Basics
+
+	Stopping Point:
+		Some people did not get very far past the titanic dataset exercise on their python interperter. A few people only got past the library imports.
+
+		Others got further.
+
+	Areas of Concern:
+		1) 
+			Concern:
+				No one I saw took detailed notes on what hte actual meaning of hte programs were. This could have one of a few meanings:
+					1) They understood everything about the titanic dataset exercise
+					2) They didn't understand some lines of code and neglected to write down what lines and their guess at what it means
+					3) They did not get very far, and understood the few parts they did finish (library imports)
+			Solution:
+				1) Remind class that they should be thinking of the meaning of their code as they type it and endevaor to understand what they don't understand. First they must exercise their meta-awareness (thinking about thinking) skills and query themselves "do I understand this? What do I think this is? How does this line of code connect to the bigger picture of this exercise?" 
+
+					It's OKAY TO NOT BE ABLE TO ANSWER THESE QUESTIONS. HOWEVER IT IS NOT OKAY TO NOT AS THESE QUESTIONS
+
+	Starting Point For Next Class:
+		I want to get started on Github basics. However, perhaps we should spend some time finishing up the coding exercise for hte titanic dataset before we leave logistic regression and focus on the next algorithim. 
+
+
+
+

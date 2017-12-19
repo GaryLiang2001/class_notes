@@ -1,0 +1,67 @@
+2017/12/13
+
+	Rules
+		1) Before you leave classroom
+			1) Clear all tables. 
+			2) Turn off all computers. 
+			3) Push all chairs under the desks.
+			4) Give me your NOTEBOOK and PLANNER to sign
+		2) When you enter the classroom
+			1) Log into Enuda Learn
+			2) Click on the latest intro to computer science course.
+			3) Read the warmer and get into student mode (Robin mode). 
+		3) Know how to use the computer. 
+			1) Wifi is 101room - password is 101room123 
+		4) Computer Lab Cleanliness:
+			1) No food or drinks
+		5) Never not be doing anything!
+			1) You are never finished! There is always more work.
+			2) I don't know what to do, is not an excuse.
+				1) Use Kalu Kalu Problem Solving techniques. 
+		6) When the teacher is talking, pay attentioni. 
+
+		7) NEVER EVER EVER GO TO ANY WEBSITE UNLESS I TELL YOU TO GO TO THAT WEBSITE:
+			1) DON'T GO TO vocubulary.com
+			2) The only website you can go to
+				baidu translate 
+					1) Not regular baidu. But baidu translate.
+		I agree with all the Rules: Signatures
+			Carolyn, Martina, Jasmine, Arya, Ivy, Amy, Ella, Jason, Jim, Oscar, Percy, Robin, Russell, Curtis, Vivian, Kira
+
+	Homework:
+		1) Read and Understand ALL SENTENCES IN ALL OF Github Basics Lessons.
+
+			2) If you don't understand: 
+				3) Use Kalu Kalu method of learning a new language. Buy yellow, orange, and purple highlighters. 
+
+				
+12/15/2017
+
+	Notes:
+		- Two major types of supervised learning
+			1) Classification
+			2) Regression
+		- Last week we talked about Classification
+		- Classification
+			- Predict a discrete target 
+			output
+				- discrete
+					- Means not continuous. A limited class. 
+				- Ex:
+					- Survied or Not Surived
+					- Has Cancer Does Not Have Cancer
+					- Will Get Accepted or Will not Get Accepted
+					- Will Buy, jordans, video games, gloves, and designer jeans.
+					- Male or Female 
+				- target output
+					- The thing we are trying to predict
+
+
+		- Regression
+			- Predict a continous target output
+				- Ex:
+					- Price of a house
+					- Age a user is.
+					- 
+
+
