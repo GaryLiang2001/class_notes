@@ -74,3 +74,50 @@
 
 
 
+12/20/2017
+	Notes
+		Steps in Machine Learning Project
+			1)Import our packages
+			2) Load our data
+				- How do we read our data into python?
+					- We call pandas' read_csv method, passing it our filepath as a string argument
+						What does filepath mean?
+							- Where it is relative to our script. 
+			3) Understand our data description and info.
+
+
+	Homework
+		1) Understand all code
+			1) Go through all of:
+				1) titanic_dataset & 
+					- https://github.com/KaluEmeKalu/titanic_dataset/blob/master/logistic_regression.py
+				2)ad_project code.
+
+			2) Make sure you understand every line of code. 
+			3) Describe every line of code.
+			4) Must write this in your journal.
+		2) Take all Quizzes
+		3) Send me a excel sheet of everyone's enudalearn username they used to take the quiz and your github username (choose a professional username.)
+			- Charlie will send to me. Send on Engrade. 
+			- Must be excel or .csv
+		4) You don't have to, but if you have time.
+			- You can read chapter 8 of ISL. 
+				- Decision Trees 
+		Example:
+			log_reg.py
+				Line 23)
+					We import the pandas library and use the identifier pd to refer to it. 
+				Line 24) 
+					We import the numpy library and use hte identifier np to refer to it. 
+
+
+
+				....
+				Line 36) 
+					We call pandas read_csv method and pass it the string representing the filepath of our data. 
+
+				Line 66)
+					Not too sure. 
+						Guess:
+							I guess it sets the style of our plot to a whitegrid.
+
