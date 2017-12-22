@@ -85,4 +85,33 @@ Problem Solving Tactics
 			2) Bring instructions down into steps
 			3) What was the last step I completed
 
-	
+12/20/2017
+	PROJECT TIME:
+		Write your code to Webscrape your information
+		You must save your project to a github repository.
+
+		But your and your partner must have your own github repository. 
+
+
+	USERNAME LIST
+		Please send me a excel sheet of all your usernames Enuda learn and Github on Engrade by the end of class
+		Person responsible:
+			"Max"
+
+
+	WELCOME BACK!
+		We will be continuing with our project. Sit with your partner.
+	Course: 
+		WEB SCRAPE PROJECT
+
+	Directions:
+		- Sit with your partner. You already went through Web Scrape Project steps 1-6.
+		- You should get started with step 7.
+		- In this step you will write code to get ONE set of data from your webpage.
+		- Step 7 on enudalearn Web Scrape Projects shows you how to get the data if you website was 
+		  a vocabulary list on vocabulary.com. But you must write YOUR OWN algorithim to get
+		  YOUR OWN data on YOUR OWN website. 
+		- I will be walking around the classroom helping people with thier algorithims.
+
+	Before Class is Over
+		- Upload your project as it currently is on github

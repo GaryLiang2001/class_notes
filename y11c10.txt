@@ -87,7 +87,7 @@
 
 
 	Homework
-		1) Understand all code
+		1) Understand and ANNOTATE all code:
 			1) Go through all of:
 				1) titanic_dataset & 
 					- https://github.com/KaluEmeKalu/titanic_dataset/blob/master/logistic_regression.py

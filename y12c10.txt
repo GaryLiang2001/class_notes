@@ -35,3 +35,63 @@
 
 	Next Class Start Point:
 		Next class we start by letting them get with their partners and write their downloading_a_webpage script.
+
+
+
+12/22/2017
+
+Class Rules
+	1) Be in the classroom and logged into Enuda learn, the latest course for Intro to Computer Science by 7:57am. 
+
+	2) When I'm speaking, pay attention. 
+		- Do not use the computer when I'm talking. 
+
+	3) Be a proactive learner. 
+		1) Take a problem solving approach.
+			1) What have you done ot invesatigate? 
+
+		2) Never not be doing anything.
+			1) Common Excuses
+				1) I don't know what to do
+					1) Find instructions
+						Hints: Enudalearn.com
+					2) Break instructions into steps.
+					3) What was the last step  you finished? 
+					4) Did you try to start the next step?
+					5) Where did you find difficult? 
+		3) If you have a question
+			- Write it down.
+		4) Bring your notebook and planner everyday. 
+			- I should sign both everyday.
+			- Please bring the same ones. 
+	Learning Objectives
+		1) Know how to use git to keep track of different versions of a file.
+		2) Know how to use git to share projects with different people across different computers
+		3) Know how to use github as a portfolio of your previous 
+		awesomeness. 
+
+	Github Sign Up:
+		1) Github.com/join
+		2) enter unique username, email, and password, then click create account.
+		3) Go to your email, open email from github and click on "Verify email address"
+		4) Go to github.com/new to create a new repository
+		5) Name your repository decision_making_project 
+
+
+	Homework:
+		1) Finish reading all of Github Basics - Annotate every line of code that the lesson asks you to write. 
+
+			1) For instance:
+				1)  Get Started: Tell Git Who You Are 
+					- Line 1: I tell git that I am the user Kalu
+		2) On engrade Send me a Excel Documents of all Your github accounts and your enudalearn account names.
+
+	Write in notebook your stopping point.
+
+
+
+
+
+
+
+
