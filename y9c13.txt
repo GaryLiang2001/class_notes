@@ -52,37 +52,37 @@
 		Students:
 			Evelyn, Linn, Nancy, Krystal, Karen, Virgil, Linda, Chris, Tim, Roger, Kryie Kobe, Boyu, Albert, Benson, Alex
 
+	12/22/2017
+	Homework Github Basic Lesson Code:
+		 Initializing Local Git Repo :
+		 	 Get Started: Tell Git Who You Are 
+		 	 	Line 1:
+		 	 		- I Guess it tells git your username
+		 	 	Line 2:
+		 	 		- I guess it tells git your email
+		 	Initializing Our Git Repo :
+		 		Line 2:
+		 			- Takes you to the your_name folder, which is inside the Documents folder, which is inside the home folder.
+		 		Line 4:
+		 			- Cd into a folder called decision_making_project located in your current working directory. 
 
-Homework Github Basic Lesson Code:
-	 Initializing Local Git Repo :
-	 	 Get Started: Tell Git Who You Are 
-	 	 	Line 1:
-	 	 		- I Guess it tells git your username
-	 	 	Line 2:
-	 	 		- I guess it tells git your email
-	 	Initializing Our Git Repo :
-	 		Line 2:
-	 			- Takes you to the your_name folder, which is inside the Documents folder, which is inside the home folder.
-	 		Line 4:
-	 			- Cd into a folder called decision_making_project located in your current working directory. 
-
-	Question:
-		1) What is current is working directory?
-			- The directory you're in.
-		2) What is difference between directory and folder?
-			- No difference. They mean the same thing. 
-		3) I've noticed that the title of some ends in .sh. What is this?
-		4) What is bash code. 
-		5) What does .read() do?
-			- Not relevant. 
-		6) ~ means home
-			- called "tilda"
-		7) . means current working directory
-		8) parameter = argument = 参数
+		Question:
+			1) What is current is working directory?
+				- The directory you're in.
+			2) What is difference between directory and folder?
+				- No difference. They mean the same thing. 
+			3) I've noticed that the title of some ends in .sh. What is this?
+			4) What is bash code. 
+			5) What does .read() do?
+				- Not relevant. 
+			6) ~ means home
+				- called "tilda"
+			7) . means current working directory
+			8) parameter = argument = 参数
 
 
-	Homework: 
-		1) Same as last week. Finish last week's homework.
-		2) Kalu will email you more homework. 
-		3) Think about today's lesson on note taking and problem solving. 
+		Homework: 
+			1) Same as last week. Finish last week's homework.
+			2) Kalu will email you more homework. 
+			3) Think about today's lesson on note taking and problem solving. 
 
