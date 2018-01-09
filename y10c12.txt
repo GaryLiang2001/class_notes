@@ -64,3 +64,16 @@
 			- You must write your annotations in your journal
 			EX:
 				Line 1: Line one imports the urlopen funciton we will use to download the webpage. We import it form the urllib.request library.  
+
+12/8/2018
+
+	-Upload to github
+		1)create remote github repository
+		2) inialize local git repository in student fighter folder
+		3) connect local git repo and remote github repository 
+			- git remote add your_repo_url
+		4) git status
+		5) git add your_file
+		6) git commit -m "your commit message"
+		7) git push origin master
+	
