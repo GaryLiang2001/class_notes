@@ -115,3 +115,38 @@ Problem Solving Tactics
 
 	Before Class is Over
 		- Upload your project as it currently is on github
+
+
+
+
+12/10/2018
+	
+
+	Getting started
+		1) cd into your_name folder
+		2) create a folder called student_figher
+		3) cd into student fighter
+		4) create a script called student_fighter.py
+		5) open sublime and type your code inside of your student_fighter.py
+		6) run your student_fighter.py python script
+		7) confirmed that your output is correct.
+		8) take lesson quiz
+		9) Move to next step
+			- Repeat
+	
+	Save Your project onto Github
+		1) Create your remote github repository
+		2) create your local git repository
+			- git init
+		3) Connect your remote github repository with your LOCAL git repository
+			- see your github and copy the line starting with git remote...
+		4) check status of local git repo
+			- git status
+		5) add your files to to be saved
+			- git add your_files
+		6) save your files
+			- git commit -m "your commit message"
+		7) push your local git changes onto your remote github repository.
+			- git push origin master
+
+	Homework: Finish all Video Game quizzes
