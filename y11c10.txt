@@ -121,3 +121,18 @@
 						Guess:
 							I guess it sets the style of our plot to a whitegrid.
 
+12/10/2018
+	Class notes
+		1) Charlie. What happened? You failed me? No excel sheet of usernames and github accounts?
+
+		2) We've been using objects more in our machine learning exercises.
+
+			- Time to learn more about what objects are by creating our own classes.
+
+			- A class is a prototype for an object.
+
+			- In other words, we can create our own type of objects!!!!! Whoo!
+
+			- Continue learning about classes using the Intro To Computer Science - A Simple Video Game lesson.
+
+			- EVERYONE MUST USE THEIR OWN COMPUTER!!!!
