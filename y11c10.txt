@@ -123,8 +123,10 @@
 
 12/10/2018
 	Class notes
-		1) Charlie. What happened? You failed me? No excel sheet of usernames and github accounts?
-
+		1) GOOD MORNING!
+			- LOG INTO ENUDA LEARN AND GO TO THE LASTEST COURSE UNDER INTRO TO COMPUTER SCIENCE - PYTHON CLASSES: A SIMPLE VIDEO GAME
+				-: TIME LIMIT 8:47
+			- Charlie. What happened? You failed me? No excel sheet of usernames and github accounts?
 		2) We've been using objects more in our machine learning exercises.
 
 			- Time to learn more about what objects are by creating our own classes.
