@@ -125,7 +125,10 @@
 	Class notes
 		1) GOOD MORNING!
 			- LOG INTO ENUDA LEARN AND GO TO THE LASTEST COURSE UNDER INTRO TO COMPUTER SCIENCE - PYTHON CLASSES: A SIMPLE VIDEO GAME
-				-: TIME LIMIT 8:47
+				- TIME LIMIT: 8:47
+				- Minus 2 points if not done on time.
+				- USE YOUR OWN COMPUTER!
+
 			- Charlie. What happened? You failed me? No excel sheet of usernames and github accounts?
 		2) We've been using objects more in our machine learning exercises.
 
@@ -138,3 +141,76 @@
 			- Continue learning about classes using the Intro To Computer Science - A Simple Video Game lesson.
 
 			- EVERYONE MUST USE THEIR OWN COMPUTER!!!!
+	Lesson objectives
+		1) Get more used to working with classes
+		2) know important class keywords like init
+		3) know diff b/w definiing a class and instantiating a class object
+		4) get better at creating class methods
+			- a method is a function that belows to an object.
+
+
+	Notes
+		1) A class is a prototype of an object. 
+
+		Task:
+			1) cd into your Documents/your_name folder
+			2) create a file called student_fighter.py
+			3) Type the script in student_fighter.py using sublime
+			4) Run the script on your terminal using python3 student_fighter.py
+
+			10 minutes to do it
+
+		Progress Check
+			1) Sam - 3
+
+			2) Max - Finished step 3
+				- Finished 4
+			3) Anna - Finished step 3
+				- finished lesson 3 and quiz
+			4) Jerry - on step 3
+				- finished lesson 3 and quiz
+			5) Sky - On 3
+				- finished lesson 3 and quiz
+			6) Tommy - Finished but copied and pasted. Must redo
+				- finished lesson 4 and quiz
+				- Took two quizzes started lesson 4
+			7) Ricky - On 3
+				- finished lesson 4 working on lesson 4 quiz
+			8) Bruce - Finished 3
+				- finished lesson 4 working on lesson 4 quiz
+			9) Katherine - On 4
+				- finished lesson 3 quiz started lesson 4
+			10) Cristina - Finished all of lesson 3
+				- working on lesson 4
+			11) Joy - On 2
+				- finished lesson 3 working on quiz
+			12) Freya - On 3
+				- finished lesson 3 and quiz
+			13) Susan - On 3
+				- finished lessson 3 working on quiz
+			14) Charlie - Finished lesson 3
+				- finished lesson4  working on lesson 4 quiz
+			15) Harry - On 4
+				- on lesson 4
+			16) Sherlock - On 4
+				- working on lesson 4
+
+	dunder ___ (double underscore)
+
+	Upload the work we have on github. 
+		1) cd into project folder
+		2) create github repository
+		3) create a local git repository
+		4) Connect your local git repository, with your remote github repository
+		5) git status
+		6)  git add your files
+		7) git commit -m "your message"
+		8) git push origin master 
+			- This will push your local git changes onto your remote github account. 
+
+	Homework:
+		Finish all quizzes Simple Video Game quizzes.
+		
+		Remember the computer and USER you used this class.
+
+		Let me sign your planner and journal
