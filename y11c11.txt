@@ -116,3 +116,31 @@
 		Everyone to finish all quizzes from Github Basics Lesson.
 
 		1) If you didn't finish writing the code, please read all the section from the Github basics Lesson
+
+
+12/12/2018
+	
+
+	Getting started
+		1) cd into your_name folder
+		2) create a folder called student_fighter
+		3) cd into student_fighter folder
+		4) create a file called student_fighter.py
+		5) open sublime and type your code inside of your student_fighter.py
+		6) run your student_fighter.py python script
+		7) confirmed that your output is correct.
+		8) take lesson quiz
+		9) Move to next step
+			- Repeat
+	Common Questions:
+		1) How to open sublime.
+			subl .
+		2) How to run a python script?
+			python3 name_of_your_script
+
+	Homework:
+		- Finish all Simple Video Game Quizzes
+		- Must be finished by next week.
+		- NO EXCUSES. I DON'T UNDERSTAND ISN'T AN EXCUSE. IF YOU DON'T TAKE ANY STEPS TO ASK ME (I.E., CONTACT BANZHUREN OR SEND ENGRADE MESSAGE) THEN YOU FULLY UNDERSTAND.
+		- YOU MUST REMEMBER WHICH COMPUTER YOU USED AND WHAT USER YOU WERE LOGGED INTO
+			- NO EXCUSES. IF YOU DON'T UNDERSTAND THIS NO EXCUSES.
