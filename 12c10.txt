@@ -1,0 +1,104 @@
+12/22/2017
+
+Class Rules
+	1) Be in the classroom and logged into Enuda learn, the latest course for Intro to Computer Science by 7:57am. 
+
+	2) When I'm speaking, pay attention. 
+		- Do not use the computer when I'm talking. 
+
+	3) Be a proactive learner. 
+		1) Take a problem solving approach.
+			1) What have you done ot invesatigate? 
+
+		2) Never not be doing anything.
+			1) Common Excuses
+				1) I don't know what to do
+					1) Find instructions
+						Hints: Enudalearn.com
+					2) Break instructions into steps.
+					3) What was the last step  you finished? 
+					4) Did you try to start the next step?
+					5) Where did you find difficult? 
+		3) If you have a question
+			- Write it down.
+		4) Bring your notebook and planner everyday. 
+			- I should sign both everyday.
+			- Please bring the same ones. 
+	Learning Objectives
+		1) Know how to use git to keep track of different versions of a file.
+		2) Know how to use git to share projects with different people across different computers
+		3) Know how to use github as a portfolio of your previous 
+		awesomeness. 
+
+	Github Sign Up:
+		1) Github.com/join
+		2) enter unique username, email, and password, then click create account.
+		3) Go to your email, open email from github and click on "Verify email address"
+		4) Go to github.com/new to create a new repository
+		5) Name your repository decision_making_project 
+
+
+	Homework:
+		1) Finish reading all of Github Basics - Annotate every line of code that the lesson asks you to write. 
+
+			1) For instance:
+				1)  Get Started: Tell Git Who You Are 
+					- Line 1: I tell git that I am the user Kalu
+		2) On engrade Send me a Excel Documents of all Your github accounts and your enudalearn account names.
+
+	Write in notebook your stopping point.
+
+
+
+
+
+
+
+
+1/12/2018
+	
+
+	Getting started
+		1) cd into your_name folder
+		2) create a folder called student_fighter
+		3) cd into student_fighter folder
+		4) create a file called student_fighter.py
+		5) open sublime and type your code inside of your student_fighter.py
+		6) run your student_fighter.py python script
+		7) confirmed that your output is correct.
+		8) take lesson quiz
+		9) Move to next step
+			- Repeat
+	Common Questions:
+		1) How to open sublime.
+			subl .
+		2) How to run a python script?
+			python3 name_of_your_script
+
+	Homework:
+		- Finish all Simple Video Game Quizzes
+		- Must be finished by next week.
+		- NO EXCUSES. I DON'T UNDERSTAND ISN'T AN EXCUSE. IF YOU DON'T TAKE ANY STEPS TO ASK ME (I.E., CONTACT BANZHUREN OR SEND ENGRADE MESSAGE) THEN YOU FULLY UNDERSTAND.
+		- YOU MUST REMEMBER WHICH COMPUTER YOU USED AND WHAT USER YOU WERE LOGGED INTO
+			- NO EXCUSES. IF YOU DON'T UNDERSTAND THIS NO EXCUSES.
+
+
+ 
+
+ 	Class Ended:
+ 		Progress:
+ 			- No one uploaded to github. 
+ 			- I told them to remember the computer you used. 
+ 				- If you don't it will be your fault.
+ 			- Remember the user that you used. 
+ 			- Make sure you finish all the quizzes. 
+ 			- If you have any problems contact me as soon as possibel on engrade.
+
+ 		- Jayce - Finished Step 3 and and Step 4
+ 		- Lucy - Finish Step 3 and lesson quiz
+ 		- Ene - Finished Step 3 quiz didn't start lesson 4
+ 		- Alex - Not finished step 3
+ 		- Patricia - Finished step 3 can't take Step 3. 
+ 		- Katherine - Did not finish step 3
+
+ 		Homework 
