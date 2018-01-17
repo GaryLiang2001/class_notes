@@ -238,7 +238,7 @@ Questions:
 Steps of Every Machine Learning Problem
 1) Import your libraries
 2) load your data into a pandas dataframe
-3) Get a basic understanding of your data description, info, and head
+3) Get a basic understanding of your data description, info, and head, columns
 4) Understand your data through visualization
 5) Do your train-test split
 6) Train your Model
