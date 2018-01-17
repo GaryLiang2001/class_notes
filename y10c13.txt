@@ -150,3 +150,13 @@ Problem Solving Tactics
 			- git push origin master
 
 	Homework: Finish all Video Game quizzes
+
+
+2nd Semester Exam:
+	Quizzes:
+		Do quizzes from all these lessons:
+			- Web Scrape Project
+			- Video Games
+			- Django
+			- Github Basics
+			- Second Quarter Exam Review (Bonus Points, Optional)
