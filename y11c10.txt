@@ -229,3 +229,18 @@ Questions:
 		- USE TAB!
 	2) How come I can't download from github. 
 		- Did you check that you deleted the space after github .com
+
+
+1) cd Documents
+	- know how to confirm that you've successfully done this task. 
+2) 
+
+Steps of Every Machine Learning Problem
+1) Import your libraries
+2) load your data into a pandas dataframe
+3) Get a basic understanding of your data description, info, and head
+4) Understand your data through visualization
+5) Do your train-test split
+6) Train your Model
+7) Make Predictions
+8) Check Accuracy
