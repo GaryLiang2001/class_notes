@@ -106,3 +106,16 @@
 			- git commit -m "your commit message"
 		7) push your local git changes onto your remote github repository.
 			- git push origin master
+
+	Grades & Quizzes:
+		1) Github basics
+		2) A Simple Video Game
+		3) Django
+		4) Web Scrape Project
+
+	Your Exam:
+		Will be made up of questions from the quizzes in the four lessons above and a simple video game.
+
+		Do: Second Quarter Exam Review
+			- Do The Quiz Of this lesson.
+		Difficult Questions have pictures

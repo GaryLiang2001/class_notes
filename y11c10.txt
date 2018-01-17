@@ -214,3 +214,18 @@
 		Remember the computer and USER you used this class.
 
 		Let me sign your planner and journal
+
+
+For the exam:
+	1) Open your terminal, cd into your ~/Documents/your_name folder, download the data from github, cd into the folder, activate your virtual environment, enter a python interactive interpreter, and load your data into a pandas dataframe. 
+		- To load the data into a pandas dataframe you must be in the same folder that the .csv file is in.
+	2) Be able to do basic visualization
+	3) Be able to get basic descriptions, and info from your pandas dataframe. 
+
+
+Questions:
+	1) How to log into virtual environment
+		- source ~/machine_learning_venv/bin/activate
+		- USE TAB!
+	2) How come I can't download from github. 
+		- Did you check that you deleted the space after github .com
