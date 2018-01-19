@@ -188,3 +188,12 @@ YOU MUST KNOW HOW TO CONFIRM THAT YOU DID EACH STEP CORRECT
 8) know how to get to my github
 	- github.com/kaluemekalu/
 	- go to my repositories
+	- click on the repository you want
+	- copy the repository address
+9) git clone your_repo_address_that_you_copied
+10) cd into the repo
+
+
+Sample Question
+	1) advertising.csv
+		- What is the average age?
