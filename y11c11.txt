@@ -144,3 +144,47 @@
 		- NO EXCUSES. I DON'T UNDERSTAND ISN'T AN EXCUSE. IF YOU DON'T TAKE ANY STEPS TO ASK ME (I.E., CONTACT BANZHUREN OR SEND ENGRADE MESSAGE) THEN YOU FULLY UNDERSTAND.
 		- YOU MUST REMEMBER WHICH COMPUTER YOU USED AND WHAT USER YOU WERE LOGGED INTO
 			- NO EXCUSES. IF YOU DON'T UNDERSTAND THIS NO EXCUSES.
+
+
+
+
+1) cd into your name folder
+YOU MUST KNOW HOW TO CONFIRM THAT YOU DID EACH STEP CORRECT
+	- open your terminal
+	- cd Documents <--- don't forget capital D
+		- Use TAB!
+	- ls 
+		- this checks the contents of your current folder.
+	- cd into your folder
+		- If you see your folder
+			- cd into it
+		- if you don't see your folder
+			- create it
+				- mkdir your_name
+	- 
+1) Open your terminal
+2) cd in Documents
+	- PLEASE USE TAB
+	- cd Documents
+		- Verify IT IS DONE CORRECTLY
+			- HOW TO VERIFY?
+				- Look at the top of the window, check the name at the end.
+
+3) check if your name folder exisits
+	- ls
+		- this command shows you the contents of your current folder.
+4) if your name exists, cd into it. If your name doesn't exist, create your folder, and then cd into it.
+	- Create your name folder
+		- mkdir your_name
+	- cd into your folder
+		- cd your_name
+5) How to check if you have entered your ~/Documents/your_name folder
+	- look at the top of hte screen and read the name.
+6) activate your virtual environment - source ~/machine_learning_venv/bin/activate
+	- IF YOU ARE NOT USING TAB YOU ARE NOT DOING IT CORRECTLY. 
+	- How to check it is done correctly
+		- 
+7) grab project from my github.
+8) know how to get to my github
+	- github.com/kaluemekalu/
+	- go to my repositories
