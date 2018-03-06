@@ -203,12 +203,55 @@ YOU MUST KNOW HOW TO CONFIRM THAT YOU DID EACH STEP CORRECT
 Sample Question
 	1) advertising.csv
 		- What is the average age?
+
+
 Steps of Every Machine Learning Problem
-1) Import your libraries
-2) load your data into a pandas dataframe
-3) Get a basic understanding of your data description, info, and head, columns
-4) Understand your data through visualization
-5) Do your train-test split
-6) Train your Model
-7) Make Predictions
-8) Check Accuracy
+	1) Import your libraries
+	2) load your data into a pandas dataframe
+	3) Get a basic understanding of your data description, info, and head, columns
+	4) Understand your data through visualization
+	5) Do your train-test split
+	6) Train your Model
+	7) Make Predictions
+	8) Check Accuracy
+
+
+HOW TO GET TO EXAM
+	- Go to enudalearn.COM
+		- Intro To Machine Learning
+			- SECOND QUARTER ML EXAM
+RULES FOR EXAM
+	- You CAN LOOK AT ANY ENUDA LEARN LESSON
+	- YOU CANNOT LOOK AT ANY PREVIOUS QUIZZES
+	- ADVERTISING CLICKS DATASET
+		- any question that has advertising before it is a question about the advertising.csv dataset. You must download it from github. The instrucitons below say how to do so.
+		- step 6
+GETTING STARTED - OPEN YOUR TERMINAL AND:
+	1) - cd Documents
+	   - cd your_name
+	2) - git clone https://github.com/kaluemekalu/ad_project
+	3) - cd ad_project
+	4) - source ~/machine_learning_venv/bin/activate
+	5) - python
+	6) - import pandas as pd
+	   - import numpy as np
+	   - import matplotlib.pyplot as plt
+
+
+
+
+
+Celici - 2 ponits
+Derek - 2 points
+
+
+
+MARCH 06, 2018
+	Clone my github repository called numpy_resources
+	- How to Clone a repository
+		- You need to know two things:
+			1) username of respository owner
+				- kaluemekalu
+			2) name of respository
+		Ex:
+			- git clone https://github.com/kaluemekalu/numpy_resources
