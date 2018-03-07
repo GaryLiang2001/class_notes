@@ -262,3 +262,7 @@ Steps to cloning a repo
 
 Tip:
 	If it asks for your username or password, you incorrectly typed the repository address. Press ctrl+c and try again.
+
+
+Homework
+	numpy.pdf read pages 1 to 10. 
