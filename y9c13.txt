@@ -86,4 +86,26 @@
 			2) Kalu will email you more homework. 
 			3) Think about today's lesson on note taking and problem solving. 
 
-Everyone 20 for today
+I understand the difference between:
+	1) defining a class and
+	2) instantiating a class object
+
+
+I DON'T understand the difference between:
+	1) defining a class and
+	2) instantiating a class object
+
+Functions and methods:
+	- a object that you must call
+	- to call an method/function you use parenthesis
+		- say_hello()
+	- to call means to use
+	- a method is simply a function that belongs to an object. 
+		- an_obj.a_method()
+	- most functions/methods return an obj when you call them.
+
+Understand the difference between:
+	- a class
+	- and an instance of a class
+	- For Example 
+		- If we have a Student class, an instance of that class could be the student Boyu. 

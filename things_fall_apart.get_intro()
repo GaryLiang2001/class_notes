@@ -1,0 +1,10 @@
+things_fall_apart.get_intro()
+
+get_intro function:
+	message = "The book name is Things Fall Apart Published in 1958. "  + self.get_author_name()
+
+	(make a function called)
+	(hold on)
+
+get_author_name function:
+ 	message = "The author name is" + "Chinua Achebe"

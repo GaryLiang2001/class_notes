@@ -244,3 +244,21 @@ Steps of Every Machine Learning Problem
 6) Train your Model
 7) Make Predictions
 8) Check Accuracy
+
+
+March 7th 2018
+
+Clone my github repository called numpy_resources
+
+To clone a repository you need 2 things
+	1) you need the github account username of the repo owner
+		- kaluemekalu
+	2) the name of the repository
+
+Steps to cloning a repo
+	1) Open your terminal
+	2) cd into your ~/Documents/your_name folder
+	3) git clone https://github.com/the_username/the_repo
+
+Tip:
+	If it asks for your username or password, you incorrectly typed the repository address. Press ctrl+c and try again.

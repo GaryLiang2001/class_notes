@@ -255,3 +255,7 @@ MARCH 06, 2018
 			2) name of respository
 		Ex:
 			- git clone https://github.com/kaluemekalu/numpy_resources
+
+	Homework - Read numpy.pdf An Introduction to Numpy and Scipy pages 1-10
+
+	You can get the pdf in my numpy_resources repository. 
