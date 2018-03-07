@@ -113,3 +113,18 @@
 		- NO EXCUSES. I DON'T UNDERSTAND ISN'T AN EXCUSE. IF YOU DON'T TAKE ANY STEPS TO ASK ME (I.E., CONTACT BANZHUREN OR SEND ENGRADE MESSAGE) THEN YOU FULLY UNDERSTAND.
 		- YOU MUST REMEMBER WHICH COMPUTER YOU USED AND WHAT USER YOU WERE LOGGED INTO
 			- NO EXCUSES. IF YOU DON'T UNDERSTAND THIS NO EXCUSES.
+
+
+
+March 7 2018
+
+	- Task 1
+		- git clone my repository named ap_csp
+
+		- How to do?
+			- If I tell you to git clone a repo, you need 2 things:
+				1) The name of the github account for the owner of the repository
+					- kaluemekalu
+				2) the name of the repository
+			- Once you have these two things, open your terminal, cd into your ~/Documents/your_name folder  and type:
+				- git clone https://github.com/the_username/the_repo_name
