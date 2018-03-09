@@ -109,3 +109,12 @@ Understand the difference between:
 	- and an instance of a class
 	- For Example 
 		- If we have a Student class, an instance of that class could be the student Boyu. 
+
+
+March 9th 2018
+	- Homework
+		- DO AP Computer Science PRactice Exam on page 83 of ap-computer-science-principles-course-and-exam-description
+
+		- Get it from my github in the repository called ap_csp
+			- kaluemekalu
+			- ap_csp

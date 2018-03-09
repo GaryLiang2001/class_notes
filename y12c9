@@ -152,3 +152,23 @@ COMMENT
 			- Django
 			- Github Basics
 			- Second Quarter Exam Review (Bonus Points, Optional)
+
+
+March 08 2018
+	- Task 1
+		- Download the repository on my github called ap_csp
+
+		- You need to know two things to download a repository:
+			1) github username of repository owner
+				- kaluemekalu
+			2) the name of the repository
+
+		- If you don't know how to download a repository using the TERMINAL please write down the instrucitons in your notebook. 
+
+		- git clone https://github.com/username/repo_name
+
+		^^ Type that in your terminal inside your ~/Documents/your_name folder
+
+		- Tip:
+			-if it asks for password, then you mistyped. 
+			- ctrl+C and do it again. Check your mistake.

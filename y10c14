@@ -128,3 +128,8 @@ March 7 2018
 				2) the name of the repository
 			- Once you have these two things, open your terminal, cd into your ~/Documents/your_name folder  and type:
 				- git clone https://github.com/the_username/the_repo_name
+		- Tip:
+			- If it asks for your username or password, you incorrectly typed it. 
+			- press ctrl+c
+			- up arrow
+			- fix the mistake
