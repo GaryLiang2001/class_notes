@@ -119,3 +119,12 @@
 		Do: Second Quarter Exam Review
 			- Do The Quiz Of this lesson.
 		Difficult Questions have pictures
+
+
+March 9th 2018
+	- Homework
+		- DO AP Computer Science PRactice Exam on page 83 of ap-computer-science-principles-course-and-exam-description
+
+		- Get it from my github in the repository called ap_csp
+			- kaluemekalu
+			- ap_csp
